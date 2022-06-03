@@ -1,4 +1,4 @@
-# danaXa Technical Test
+# PLATEC Technical Test
 
 This application is responsible for displaying the corresponding information in a table, which we consume from an api that has records on music genres. The application has paging and we can also choose how many records we want to show per page
 
